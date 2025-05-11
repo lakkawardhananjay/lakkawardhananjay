@@ -1,30 +1,50 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Lakkawar</h1>
-<h3 align="center">A Passionate Cloud & DEVOPS Ethusiast from India</h3>
+<h3 align="center">🎯 Cloud & DevOps Engineer | GDG Organizer | AI Enthusiast
+</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakkawardhananjay" alt="lakkawardhananjay" /></a> </p>
+<h6 align="center">🚀 I'm a passionate DevOps and Cloud engineer focused on building scalable, intelligent systems with a strong emphasis on automation, infrastructure as code, and observability. From containerized LLM deployments to AI-powered self-healing bots, I thrive at the intersection of innovation and reliability.</h6>
 
-<p align="left"> <a href="https://twitter.com/dhananjaylakka5" target="blank"><img src="https://img.shields.io/twitter/follow/dhananjaylakka5?logo=twitter&style=for-the-badge" alt="dhananjaylakka5" /></a> </p>
+---
+
+
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Responsive Image" style="max-width:100%;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lakkawardhananjay&row=2&column=4" alt="lakkawardhananjay" />
+  </a>
 </p>
-- 🔭 I’m currently working on [AutoTalker](https://github.com/Pmking27/AutoTalker)
 
-- 🌱 I’m currently learning **GCP,AWS,AZURE & DevOps Tools**
 
-- 💬 Ask me about **GCP,AWS,AZURE & DevOps Tools**
+
+## 🚧 Projects That Define Me
+
+- 🔧 **[AI-Driven Incident Management & Self-Healing System](https://github.com/dhananjaylakkawar/AI-incident-BOT)**  
+  Real-time alerting, remediation, and log archiving with Prometheus, OpenTofu, Slack integrations, and AI suggestions.
+
+- 📊 **Effortless 3-Tier App Deployment on EC2**  
+  Dockerized full-stack React-Node-MySQL app deployed via GitHub Actions and Docker Compose.
+
+- 🧠 **On-Premise LLM API Service**  
+  Locally hosted large language model with distributed API keys for low-cost, private inference.
+
+- 📽️ **Slide Studio**  
+  An AI-powered tool for text-to-presentation and slide-to-video conversion — showcased at Google I/O Connect & Cloud Community Day.
+
+---
 
 - 📫 How to reach me **lakkawardhananjay@gmail.com**
 
-- ⚡ Fun fact **Using the cloud is like having your files stored on a fluffy, invisible pillow - just hope it doesn't rain data!**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://djlakkawar.cloud" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" /></a>
 <a href="https://twitter.com/dhananjaylakka5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhananjaylakka5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhananjay-lakkawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-lakkawar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhananjay05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhananjay05" height="30" width="40" /></a>
 </p>
+
 
 
 # 💻 Tech Stack:
