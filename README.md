@@ -19,7 +19,7 @@
 
 ## 🚧 Projects That Define Me
 
-- 🔧 **[AI-Driven Incident Management & Self-Healing System](https://github.com/dhananjaylakkawar/AI-incident-BOT)**  
+- 🔧 **[AI-Driven Incident Management & Self-Healing System](https://github.com/lakkawardhananjay/AI-incident-BOT)**  
   Real-time alerting, remediation, and log archiving with Prometheus, OpenTofu, Slack integrations, and AI suggestions.
 
 - 📊 **Effortless 3-Tier App Deployment on EC2**  
